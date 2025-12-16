@@ -39,6 +39,6 @@ API Configuration: Update the Connection String in the appsettings.json file to 
 
 The AI features (recipe suggestions, automated replies, etc.) require an OpenRouter API Key.
 You must obtain your own API key from OpenRouter.
-
 Add your API key to the relevant service or settings file in the application. The AI modules will not function without a valid key.
+
 
