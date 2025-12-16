@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "APIProjectKamp.WebApi\\APIProjectKamp.WebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
